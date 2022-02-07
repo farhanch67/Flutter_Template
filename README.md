@@ -42,6 +42,11 @@ In this file, there will be getters and setters for each and every data to be st
 - [Dio for request API](https://pub.dev/packages/dio)
 - [shared_preferences for save your data to local storage](https://pub.dev/packages/shared_preferences)
 
+##locale
+- This Folder contain app Language Service class using Getx Translation 
+  1. **In lang folder we store our multi-languages Maps**
+  2. **multi_lang_service.dart file handle the locales**
+
 ## Reference
 - [Clean architecture by Get_cli](https://pub.dev/packages/get_cli)
 - [Flutter scalable folder & files structure](https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd)
